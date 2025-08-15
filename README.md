@@ -13,7 +13,7 @@ SVGblur.jsと同じくsvgを編集するだけの拡張機能
 [video.webm](https://github.com/user-attachments/assets/8d0f725c-4207-4a82-b032-5f387e33da5c)
 
 
-# bokasi.js について
+# glitch.js について
 SVGblur.jsと同じくsvgを編集するだけの拡張機能　コスチュームをスライスして表示することが可能
 
 <img width="864" height="648" alt="ダウンロード" src="https://github.com/user-attachments/assets/cbcd7cbb-5284-4b2b-80b9-74433206df5d" />
